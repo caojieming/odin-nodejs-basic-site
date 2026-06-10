@@ -1,2 +1,4 @@
 # odin-nodejs-basic-site
-Odin Project, NodeJS Course, Project: Basic Informational Site
+Building a basic site using Node.js
+
+WIP

@@ -46,3 +46,6 @@ dist
 
 # VScode #
 .vscode
+
+# environment variables file #
+.env
